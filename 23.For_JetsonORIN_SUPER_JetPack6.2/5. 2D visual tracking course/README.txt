@@ -1,0 +1,1 @@
+Note: The blocks used in this chapter are small square blocks of 30*30*30mm.
